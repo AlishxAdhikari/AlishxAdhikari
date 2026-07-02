@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Alish Adhikari
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Computer+Engineering+Student;AI+Developer;Full-Stack Developer;Machine+Learning+Enthusiast;Building+Wingman+AI;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&vCenter=true&width=850&lines=Computer+Engineering+Student;AI+Developer;Full-Stack+Developer;Machine+Learning+Enthusiast;Building+Wingman+AI;Always+Learning" alt="Typing SVG" />
 </p>
 
 <p align="center">
