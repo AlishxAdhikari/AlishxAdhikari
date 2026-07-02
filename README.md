@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Alish Adhikari
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Computer+Engineering+Student;AI+Developer;Backend+Developer;Machine+Learning+Enthusiast;Building+Wingman+AI;Always+Learning+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Computer+Engineering+Student;AI+Developer;Full-Stack Developer;Machine+Learning+Enthusiast;Building+Wingman+AI;Always+Learning+🚀" />
 </p>
 
 <p align="center">
@@ -10,23 +10,13 @@
 
 # 🚀 About Me
 
-```python
-class Alish:
-    name = "Alish Adhikari"
-    location = "Nepal 🇳🇵"
-    education = "Computer Engineering"
-    role = "AI Developer"
-    interests = [
-        "Artificial Intelligence",
-        "Backend Development",
-        "Machine Learning",
-        "Recommendation Systems",
-        "LLMs",
-        "Flutter"
-    ]
-    current_project = "Wingman AI"
-    motto = "Build • Learn • Improve • Repeat"
-```
+<p align="center">
+  <i>
+    <b>
+      Passionate about software engineering and Artificial Intelligence, I'm a Computer Engineering student dedicated to building scalable backend systems and AI-powered applications. I enjoy solving challenging problems, learning emerging technologies, and creating projects that combine innovation with practical impact.
+    </b>
+  </i>
+</p>
 
 ## 🎯 Currently Building
 - ❤️ Wingman AI
