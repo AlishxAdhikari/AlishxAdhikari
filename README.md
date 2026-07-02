@@ -79,25 +79,9 @@ An AI-powered dating coach featuring:
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlishxAdhikari&layout=compact&theme=tokyonight"/>
 </p>
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AlishxAdhikari&theme=algolia&no-frame=true&margin-w=15"/>
-</p>
 
-# 📊 Contribution Graph
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlishxAdhikari&theme=tokyo-night"/>
-</p>
-
-# 🐍 Contribution Snake
-
-> Enable using GitHub Actions later.
-
-```yaml
-name: Generate Snake
-```
 
 # 🎯 Goals
 - ✅ Build Wingman AI
